@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-monporfolio.pantheonsite.io/](https://dev-monporfolio.pantheonsite.io/)
 
-- 💬 Ask me about **html,css,js**
+- 💬 Ask me about **HTML5,CSS3,JavaScript,Csharp**
 
 - 📫 How to reach me **heritierlionge@yahoo.com**
 
