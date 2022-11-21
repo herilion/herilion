@@ -211,7 +211,7 @@
 </p>
 
 
-[![NdekoCode's github activity graph](https://activity-graph.herokuapp.com/graph?username=NdekoCode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/NdekoCode/github-readme-activity-graph)
+[![Herilion's github activity graph](https://activity-graph.herokuapp.com/graph?username=herilion&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/herilion/github-readme-activity-graph)
 <br/>
 <br/>
 
