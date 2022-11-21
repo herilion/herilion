@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Js,ReactJS, Python**
 
-- 👯 I’m looking to collaborate on [MyNdule](https://github.com/herilion/MyNdule.git)
+- 👯 I’m looking to co llaborate on [MyNdule](https://github.com/herilion/MyNdule.git)
 
 - 🤝 I’m looking for help with [MyNdule](https://github.com/herilion/MyNdule.git)
 
