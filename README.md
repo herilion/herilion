@@ -322,10 +322,10 @@
 <h3 align="center"> 🤝🏻 Hangout with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/heritier-lionge-6944b6192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hherilion-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/NdekoCode"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-NdekoCode-blue?style=flat-square&logo=twitter"></a>
-<a href="https://web.facebook.com/arick.bulakali/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NdekoCode-blue?style=flat-square&logo=Facebook"> </a>
-<a href="https://www.instagram.com/NdekoCode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-NdekoCode-blue?style=flat-square&logo=Instagram"> </a>
+<a href="https://www.linkedin.com/in/heritier-lionge-6944b6192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Herilion-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/HeritierLionge"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-NdekoCode-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.facebook.com/profile.php?id=100008202614703"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NdekoCode-blue?style=flat-square&logo=Facebook"> </a>
+<a href="https://www.instagram.com/liongeheritier/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-NdekoCode-blue?style=flat-square&logo=Instagram"> </a>
 <a href="mailto:arickbulakali@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arickbulakali@gmail.com-orange?style=flat-square&logo=Gmail"></a>
 <a href="https://wa.me/243976268395/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-herilion-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
