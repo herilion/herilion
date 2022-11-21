@@ -207,7 +207,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=herilion&show_icons=true&locale=en" alt="herilion" width="500" height= "240"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=herilion&show_icons=true&locale=en" alt="herilion" width="400" height= "600"/>
 </p>
 
 
