@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![ELITE2.0](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Heritier+LIONGE;A+Full+Stack+Developper;and+Software+engineer;From+Goma+,+DRC)
+![herilion](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Heritier+LIONGE;A+Full+Stack+Developper;and+Software+engineer;From+Goma+,+DRC)
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
@@ -14,7 +14,7 @@
 <li> 🌱 I’m currently experimenting the web ecosystem</li>
 <li> 👯 I’m looking to collaborate on solving problems with software</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
-<li>📫 How to reach me: <a href="mailto:arickbulakali@ndekocode.com">arickbulakali@ndekocode.com</a></li>
+<li>📫 How to reach me: <a href="mailto:heritierlionge@yahoo.com">heritierlionge@yahoo.com</a></li>
 
 <li> ⚡ <em>"*build your futur in technology*"</em></li>
 </ul>
