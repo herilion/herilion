@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heritier LIONGE</h1>
-<h3 align="center">A passionate Fullstack Developer and Software Engineer from Goma DRC</h3>
+<h3 align="center">A passionate Fullstack Developer and Software Engineer from Goma RDC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herilion&label=Profile%20views&color=0e75b6&style=flat" alt="herilion" /> </p>
 
