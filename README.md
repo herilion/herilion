@@ -327,13 +327,13 @@
 <a href="https://web.facebook.com/arick.bulakali/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-NdekoCode-blue?style=flat-square&logo=Facebook"> </a>
 <a href="https://www.instagram.com/NdekoCode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-NdekoCode-blue?style=flat-square&logo=Instagram"> </a>
 <a href="mailto:arickbulakali@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arickbulakali@gmail.com-orange?style=flat-square&logo=Gmail"></a>
-<a href="https://wa.me/243991487950/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-NdekoCode-lime?style=flat-square&logo=WhatsApp"> </a>
+<a href="https://wa.me/243976268395/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-herilion-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
 
 <h2 align="center">🛠 Stars:</h2>
 
 <p align="left" width="100%" >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&count_private=true" alt="NdekoCode" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode" alt="NdekoCode" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=herilion&show_icons=true&count_private=true" alt="herilion" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=herilion" alt="herilion" />
 </p>
 
