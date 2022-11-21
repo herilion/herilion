@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![ELITE2.0](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Heritier+LIONGE;A+Full+Stack+Developper;and+Software+engineer+From+Goma+,+DRC)
+![ELITE2.0](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Heritier+LIONGE;A+Full+Stack+Developper;and+Software+engineer;From+Goma+,+DRC)
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
