@@ -211,7 +211,7 @@
 </p>
 
 
-[![Herilion's github activity graph](https://activity-graph.herokuapp.com/graph?username=herilion&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/herilion/github-readme-activity-graph)
+[![herilion's github activity graph](https://activity-graph.herokuapp.com/graph?username=herilion&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/herilion/github-readme-activity-graph)
 <br/>
 <br/>
 
@@ -278,15 +278,15 @@
 
 <p align="center">
     
-<a href="https://github.com/NdekoCode/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NdekoCode">
+<a href="https://github.com/herilion/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=herilion">
 </a>
-    <a href="https://github.com/NdekoCode?tab=followers">
-        <img src="https://img.shields.io/github/followers/NdekoCode?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/herilion?tab=followers">
+        <img src="https://img.shields.io/github/followers/herilion?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: NdekoCode Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: herilion Visitor's Count" /></p>
 
 <h2 align="center">My Github Stats</h2>
 <p>
@@ -294,12 +294,12 @@
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=NdekoCode&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=herilion&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdekoCode&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=herilion&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
@@ -308,13 +308,13 @@
     width="50%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=NdekoCode&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-profile-trophy.vercel.app/?username=herilion&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="47%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NdekoCode&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=herilion&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
