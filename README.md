@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="50" height="50" alt="Css3" />
       </a>
       <br>CSS3
     </td>
