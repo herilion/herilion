@@ -26,8 +26,7 @@
     </tbody>
 </table>
 
-<h2 align="center">🛠 Languages, Tech Stack
- and Tools:</h2>
+<h2 align="center">🛠 Languages, Tech Stack and Tools:</h2>
  
 <table align="center">
   <tr>
