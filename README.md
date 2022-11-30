@@ -42,7 +42,7 @@
       </a>
       <br>CSS3
     </td>
-     <td align="center" width="98">
+     <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
