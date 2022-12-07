@@ -16,7 +16,7 @@
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
 <li>📫 How to reach me: <a href="mailto:heritierlionge@yahoo.com">heritierlionge@yahoo.com</a></li>
 
-<li> ⚡ <em>"*build your futur in technology*"</em></li>
+<li> ⚡ <em>"*build your futur in technology now*"</em></li>
 </ul>
 </td>
 <td align="center">
