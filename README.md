@@ -12,15 +12,15 @@
 <li> I’m passionate about <strong>Web and Mobile web</strong> & <strong>Financial</strong></li>
 <li> 🔭 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong></li>
 <li> 🌱 I’m currently experimenting the web ecosystems</li>
-<li> 👯 I’m looking to collaborate on solving problems with software</li>
+<li> 👯 I’m looking to collaborate on solving problems with software and hardware</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
 <li>📫 How to reach me: <a href="mailto:heritierlionge@yahoo.com">heritierlionge@yahoo.com</a></li>
 
-<li> ⚡ <em>"*build your futur in technology*"</em></li>
+<li> ⚡ <em>"*build your futur in technology now*"</em></li>
 </ul>
 </td>
 <td align="center">
-<img src="./assets/img/herilion.jpeg" width="50%" style="border-radius:50%;">
+<img src="./assets/img/herilion.jpeg" style="border-radius:50%;">
 </td>
         </tr>
     </tbody>
