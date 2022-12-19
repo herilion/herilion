@@ -93,7 +93,7 @@
       </a>
       <br>TypeScript
     </td>
-     <td align="center" width="96">
+     <td align="center" width="95">
         <a href="#livewire">
             <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
                 alt="livewire" />
