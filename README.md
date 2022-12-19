@@ -64,7 +64,7 @@
       <a href="#suhailkakar-tech">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
-      <br>Nuxt JS
+      <br>Next JS
     </td>
   </tr>
 
