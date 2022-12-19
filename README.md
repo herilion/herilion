@@ -20,7 +20,7 @@
 </ul>
 </td>
 <td align="center">
-<img src="./assets/img/herilion.jpeg" style="border-radius:50%;">
+<img src="./assets/img/herilion.jpeg" style="border-radius:40%;">
 </td>
         </tr>
     </tbody>
