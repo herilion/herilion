@@ -48,7 +48,7 @@
       </a>
       <br>Bootstrap
     </td>
-     <td align="center" width="96">
+     <td align="center" width="95">
       <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
