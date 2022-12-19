@@ -95,7 +95,7 @@
     </td>
      <td align="center" width="95">
         <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="47" height="47"
                 alt="livewire" />
         </a>
         <br>Livewire
