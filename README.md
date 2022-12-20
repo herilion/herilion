@@ -20,7 +20,7 @@
 </ul>
 </td>
 <td align="center">
-<img src="./assets/img/herilion.jpeg" style="border-radius:50%;">
+<img src="./assets/img/herilion.jpeg" style="border-radius:40%;">
 </td>
         </tr>
     </tbody>
@@ -48,7 +48,7 @@
       </a>
       <br>Bootstrap
     </td>
-     <td align="center" width="96">
+     <td align="center" width="95">
       <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
@@ -64,7 +64,7 @@
       <a href="#suhailkakar-tech">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
-      <br>Nuxt JS
+      <br>Next JS
     </td>
   </tr>
 
@@ -93,9 +93,9 @@
       </a>
       <br>TypeScript
     </td>
-     <td align="center" width="96">
+     <td align="center" width="95">
         <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
+            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="47" height="47"
                 alt="livewire" />
         </a>
         <br>Livewire
