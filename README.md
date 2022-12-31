@@ -10,7 +10,7 @@
 <ul>
 
 <li> I’m passionate about <strong>Web and Mobile web</strong> & <strong>Financial</strong></li>
-<li> 🔭 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong></li>
+<li> 🔭 I’m currently learning <strong>JavaScript</strong>,<strong>Python</strong>,<strong>PHP</strong></li>
 <li> 🌱 I’m currently experimenting the web ecosystems</li>
 <li> 👯 I’m looking to collaborate on solving problems with software and hardware</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
