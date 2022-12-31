@@ -273,7 +273,7 @@
   </tbody>
 </table>
 
-<h2 align="center"> 🤝❤ Views and Followers :eyes:</h2>
+<h2 align="center"> 🤝❤ Views  and Followers :eyes:</h2>
 
 <p align="center">
     
