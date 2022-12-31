@@ -250,7 +250,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/herilion/MyNdule?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NdekoCode/simple-clone-wiki-search"><b>Wiki Search</b></a></td>
+      <td><a href="https://github.com/NdekoCode/simple-clone-wiki-search"><b>Mon porfolio</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/NdekoCode/simple-clone-wiki-search?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/NdekoCode/simple-clone-wiki-search?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/simple-clone-wiki-search?style=flat-square&labelColor=343b41"/></td>
