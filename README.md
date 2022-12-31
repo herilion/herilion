@@ -246,7 +246,7 @@
       <td><a href="https://github.com/herilion/MyNdule"><b>My Ndule</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/herilion/MyNdule?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/herilion/MyNdule?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/NdekoCode/spotify-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/herilion/MyNdule?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NdekoCode/spotify-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
