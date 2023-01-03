@@ -12,7 +12,7 @@
 <li> I’m passionate about <strong>Web and Mobile web</strong> & <strong>Financial</strong></li>
 <li> 🔭 I’m currently learning <strong>JavaScript</strong>,<strong>Python</strong>,<strong>PHP</strong></li>
 <li> 🌱 I’m currently experimenting the Web Ecosystems</li>
-<li> 👯 I’m looking to collaborate on solving problems with software and hardware</li>
+<li> 👯 I’m looking to collaborate on solving problems with  software and hardware</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
 <li>📫 How to reach me: <a href="mailto:heritierlionge@yahoo.com">heritierlionge@yahoo.com</a></li>
 
