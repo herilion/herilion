@@ -14,7 +14,7 @@
 <li> 🌱 I’m currently experimenting the Web Ecosystems</li>
 <li> 👯 I’m looking to collaborate on solving problems with  software and hardware</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
-<li>📫 How to reach me: <a href="mailto:heritierlionge@yahoo.com">heritierlionge@yahoo.com</a></li>
+<li>📫 How to reach me: <a href="mailto:heritierlionge243@gmail.com">heritierlionge243@gmail.com</a></li>
 
 <li> ⚡ <em>"*build your futur in technology now*"</em></li>
 </ul>
